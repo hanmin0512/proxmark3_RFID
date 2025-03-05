@@ -45,3 +45,23 @@ Proxmark3는 RFID(무선 주파수 식별) 보안 분석, 연구, 개발을 위�
 ![image](https://github.com/user-attachments/assets/92fdf1d5-a5d7-4418-9a2f-676f8496075e)
 
 - (20분 정도 후 실행시킨 runme64.bat의 콘솔창이 활성화 될 것이다.)
+
+![image](https://github.com/user-attachments/assets/8fa2e6d5-8225-4403-a203-29d45bc529ab)
+
+
+![image](https://github.com/user-attachments/assets/db8030b0-afdc-4000-a5b3-a060d68807fe)
+
+![image](https://github.com/user-attachments/assets/7e0f641f-2c06-4af9-8abb-9081b0571c1b)
+
+![image](https://github.com/user-attachments/assets/41d7d0a2-ad6e-4465-b99a-cc52f2c8ca7d)
+
+![image](https://github.com/user-attachments/assets/1a91f139-16b1-4ff7-b3ab-fd6f133a552e)
+
+![image](https://github.com/user-attachments/assets/1d7cd4d8-bc6a-44b8-9bbd-177091630e62)
+
+![image](https://github.com/user-attachments/assets/861d3384-5855-4fd6-b4f9-01914a8cbef0)
+
+![image](https://github.com/user-attachments/assets/cf307db5-8bfa-4e53-a604-3dded4a81ed2)
+
+## 명령어 입력
+
